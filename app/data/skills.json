@@ -1,0 +1,387 @@
+[
+  {
+    "id": "6c2e786a-7717-4804-9822-1387813e29ad",
+    "name": "Agile Methodologies",
+    "description": "Egy iteratív és inkrementális megközelítés a szoftverfejlesztésben, amely hangsúlyozza az együttműködést, az ügyféligények gyors teljesítését és a folyamatos fejlesztést."
+  },
+  {
+    "id": "7bb59876-ee08-bae0-5f10-1e29cab9d62b",
+    "name": "Angular",
+    "description": "Egy nyílt forráskódú webes alkalmazásfejlesztési keretrendszer, amelyet a Google fejlesztett, és amely TypeScript nyelvet használ."
+  },
+  {
+    "id": "6c40d8e3-d878-564f-f6c0-f14611673bb6",
+    "name": "Automated Testing",
+    "description": "A szoftverek automatikus tesztelési folyamata, amely kódot használ a tesztesetek végrehajtására és az eredmények ellenőrzésére."
+  },
+  {
+    "id": "43bf30f3-09cf-8704-b37f-0bb3a39574c9",
+    "name": "CI/CD",
+    "description": "Folyamatos integráció és folyamatos kézbesítés, amely lehetővé teszi a kód automatikus tesztelését és telepítését a fejlesztési ciklus során."
+  },
+  {
+    "id": "76862824-618d-05c3-7ae4-525bcce646c1",
+    "name": "CSS",
+    "description": "Cascading Style Sheets, egy stíluslap nyelv, amely leírja, hogyan jelenjenek meg a HTML dokumentumok elemei."
+  },
+  {
+    "id": "da786138-a3ba-3ef9-f1cc-f2db34ecde49",
+    "name": "Django",
+    "description": "Egy nagy teljesítményű, Python-alapú webkeretrendszer, amely gyors fejlesztést és tiszta, pragmatikus dizájnt tesz lehetővé."
+  },
+  {
+    "id": "1e59f4fb-0d92-2cb5-b506-f5a16bebd0b6",
+    "name": "Docker",
+    "description": "Egy konténerizációs platform, amely lehetővé teszi az alkalmazások és függőségeik csomagolását és elszigetelését egy egységes környezetben."
+  },
+  {
+    "id": "bca4a078-9315-5d04-5935-96a1a6735928",
+    "name": "Express",
+    "description": "Egy minimalista és rugalmas Node.js webalkalmazás-keretrendszer, amely robusztus funkciókat biztosít a webes és mobil alkalmazásokhoz."
+  },
+  {
+    "id": "925c42fd-3a6f-419e-cc04-179055291008",
+    "name": "Figma",
+    "description": "Egy felhőalapú tervezőeszköz, amelyet UI/UX dizájnok készítésére és együttműködésre használnak."
+  },
+  {
+    "id": "a9914dc4-7660-a49e-aa06-3de3ae774ec0",
+    "name": "Flask",
+    "description": "Egy könnyű, Python-alapú mikrokeretrendszer, amely gyors webes alkalmazások fejlesztésére szolgál."
+  },
+  {
+    "id": "a89d5467-27f8-f528-e41f-309dfe3861d2",
+    "name": "GraphQL",
+    "description": "Egy adatkérési nyelv és futtatókörnyezet, amely lehetővé teszi az ügyfelek számára, hogy pontosan azokat az adatokat kérjék le, amelyekre szükségük van."
+  },
+  {
+    "id": "e9964ae4-cb89-69bc-c923-3e94fac08680",
+    "name": "HTML",
+    "description": "Hypertext Markup Language, a weboldalak szerkezetének és tartalmának leírására szolgáló jelölőnyelv."
+  },
+  {
+    "id": "e2a5df05-1795-2960-d12f-5dfb44bce661",
+    "name": "Hibernate",
+    "description": "Egy Java-alapú perzisztencia keretrendszer, amely az objektumok és a relációs adatbázisok közötti leképezést biztosítja."
+  },
+  {
+    "id": "a046c6c2-9aae-1d5c-fff9-66112fe42f11",
+    "name": "Interaction Design",
+    "description": "Az interaktív digitális termékek és rendszerek használhatóságának és felhasználói élményének tervezése."
+  },
+  {
+    "id": "595edd00-0878-3ef3-3cce-72fcd781ba5e",
+    "name": "JIRA",
+    "description": "Egy Atlassian által kifejlesztett projektmenedzsment eszköz, amelyet főként az agilis fejlesztési folyamatok támogatására használnak."
+  },
+  {
+    "id": "bd29b7df-9e50-85c8-fc57-dba3a1737e8b",
+    "name": "Java",
+    "description": "Egy magas szintű, objektumorientált programozási nyelv, amely platformfüggetlen alkalmazások fejlesztésére szolgál."
+  },
+  {
+    "id": "66bf6178-4e41-957e-1291-2c2885ef83c4",
+    "name": "JavaScript",
+    "description": "Egy magas szintű, dinamikus programozási nyelv, amelyet weboldalak interaktivitásának növelésére használnak."
+  },
+  {
+    "id": "5d318cbf-1c6d-25d3-2e5a-2f3b5470d265",
+    "name": "Kubernetes",
+    "description": "Egy nyílt forráskódú platform a konténerezett alkalmazások automatizált telepítésére, skálázására és menedzsmentjére."
+  },
+  {
+    "id": "8052ce51-7af1-9421-53e4-b115d2afaf0f",
+    "name": "Machine Learning",
+    "description": "Egy mesterséges intelligencia terület, amely algoritmusok és statisztikai modellek segítségével teszi lehetővé a rendszerek számára, hogy a tapasztalatokból tanuljanak és előrejelzéseket készítsenek."
+  },
+  {
+    "id": "87ede6cc-8331-0f68-9563-0da4d28edcfb",
+    "name": "Manual Testing",
+    "description": "A szoftverek kézi tesztelésének folyamata, amelyet emberi tesztelők végeznek a szoftver hibáinak és hiányosságainak azonosítása érdekében."
+  },
+  {
+    "id": "6ee5b042-2ca9-a606-1779-2aae3134bfaf",
+    "name": "MongoDB",
+    "description": "Egy dokumentumorientált NoSQL adatbázis, amely nagy mennyiségű, változatos adatok tárolására és kezelésére szolgál."
+  },
+  {
+    "id": "ff2470b8-33a6-060c-083e-d13c78c7064f",
+    "name": "MySQL",
+    "description": "Egy nyílt forráskódú relációs adatbázis-kezelő rendszer, amely strukturált adatok tárolására és kezelésére szolgál."
+  },
+  {
+    "id": "8fff918c-c703-08dc-22db-1c903db06dca",
+    "name": "Network Security",
+    "description": "Az információs rendszerek védelme az illetéktelen hozzáférés, használat, módosítás vagy megsemmisítés ellen."
+  },
+  {
+    "id": "bb552d95-f75d-7cdc-fea0-e77bac55e01f",
+    "name": "Node.js",
+    "description": "Egy JavaScript futtatókörnyezet, amely lehetővé teszi a szerveroldali kód futtatását."
+  },
+  {
+    "id": "69d76aab-0cd2-9cdd-219a-fe052416d678",
+    "name": "Pandas",
+    "description": "Egy nyílt forráskódú Python könyvtár, amely adatkezelési és elemzési eszközöket biztosít."
+  },
+  {
+    "id": "4324065d-0dd2-aa34-8cd7-aac1774478b1",
+    "name": "Penetration Testing",
+    "description": "A rendszerek sebezhetőségének azonosítása és kiaknázása a biztonsági rések feltárása érdekében."
+  },
+  {
+    "id": "42be9ce6-4c04-5ba1-ac27-70f467d13747",
+    "name": "PostgreSQL",
+    "description": "Egy nyílt forráskódú, objektum-relációs adatbázis-kezelő rendszer, amely fejlett adatkezelési képességekkel rendelkezik."
+  },
+  {
+    "id": "cfb69478-1465-7f28-79e0-fe9a8bbdb7f2",
+    "name": "Product Management",
+    "description": "Az a folyamat, amely a termékek teljes életciklusának tervezését, fejlesztését, piacra vitelét és menedzsmentjét foglalja magában."
+  },
+  {
+    "id": "2ae90736-78b4-e290-6c72-ede57aec0aa7",
+    "name": "Prototyping",
+    "description": "Az interaktív modellek létrehozásának folyamata, amely segíti a termékek és funkciók fejlesztés előtti tesztelését és validálását."
+  },
+  {
+    "id": "b2d97fa0-3006-74b1-4b81-b7cbbd32c96a",
+    "name": "Python",
+    "description": "Egy magas szintű, értelmezett programozási nyelv, amely egyszerű szintaxissal és sokoldalú felhasználással rendelkezik."
+  },
+  {
+    "id": "6506b01a-a4ed-7bbb-fb43-487e5b9ddefd",
+    "name": "RESTful APIs",
+    "description": "Az alkalmazásprogramozási interfészek (API-k) tervezési stílusa, amely a reprezentációs állapotátvitelt (REST) használja az erőforrások kezelésére és manipulálására."
+  },
+  {
+    "id": "bb85b773-6ab7-fdc8-b47a-5125bc0462c3",
+    "name": "Rails",
+    "description": "A Ruby on Rails egy nyílt forráskódú webalkalmazás-keretrendszer, amelyet a Ruby programozási nyelven írtak."
+  },
+  {
+    "id": "c936a3ea-9f9f-1bec-e9ef-259e63b26f8d",
+    "name": "React",
+    "description": "Egy nyílt forráskódú JavaScript könyvtár, amelyet a felhasználói felületek fejlesztésére használnak."
+  },
+  {
+    "id": "87b9c4ee-37c1-f593-d4ff-6d9e66bc94c7",
+    "name": "Redux",
+    "description": "Egy állapotkezelő könyvtár JavaScript alkalmazásokhoz, amely elősegíti a kiszámítható állapotkezelést."
+  },
+  {
+    "id": "85d3c1cf-80ef-24e1-9d1f-e86ba2a69be6",
+    "name": "Roadmap Planning",
+    "description": "A stratégiai terv készítése, amely meghatározza a termékfejlesztés irányát és mérföldköveit."
+  },
+  {
+    "id": "e2bb3a19-c16a-1d20-75fd-f60033ab75cf",
+    "name": "Ruby",
+    "description": "Egy dinamikus, nyílt forráskódú programozási nyelv, amely egyszerű szintaxisával és rugalmasságával ismert."
+  },
+  {
+    "id": "1184b280-f90a-6475-a408-0837f8d00878",
+    "name": "RxJS",
+    "description": "Egy reaktív programozási könyvtár, amely aszinkron adatfolyamok kezelésére szolgál JavaScript-ben."
+  },
+  {
+    "id": "fb7cd28e-0cb6-0755-a1ff-1ef81c359b2c",
+    "name": "SCSS",
+    "description": "Syntactically Awesome Stylesheets, a Sass kiterjesztett szintaxisú változata, amely lehetővé teszi a CSS könnyebb és szervezettebb írását."
+  },
+  {
+    "id": "79122bd8-89dc-4925-0c23-faf881b1b3d2",
+    "name": "SIEM",
+    "description": "Security Information and Event Management, egy biztonsági megoldás, amely valós idejű adatgyűjtést, elemzést és riasztásokat biztosít a hálózati biztonsági eseményekre."
+  },
+  {
+    "id": "0ae76729-d591-089e-2095-53b3cf598a53",
+    "name": "SQL",
+    "description": "Structured Query Language, egy programozási nyelv, amely az adatbázisok kezelésére és lekérdezésére szolgál."
+  },
+  {
+    "id": "3e8525e1-1499-1081-9124-eca192f16f4c",
+    "name": "Sass",
+    "description": "Syntactically Awesome Stylesheets, egy CSS előprocesszor, amely lehetővé teszi a változók, mixinek és beágyazott szabályok használatát a CSS-ben."
+  },
+  {
+    "id": "2abf1a68-27b2-672b-8985-20531b0e4d14",
+    "name": "Scikit-Learn",
+    "description": "Egy nyílt forráskódú Python könyvtár, amely gépi tanulási algoritmusokat és adatfeldolgozó eszközöket biztosít."
+  },
+  {
+    "id": "0cdf4100-3ba9-ab35-6fa2-7ecd9eaa49af",
+    "name": "Scrum",
+    "description": "Egy agilis keretrendszer a termékfejlesztéshez, amely rövid, időkorlátos iterációkon (sprint) alapul."
+  },
+  {
+    "id": "da07183a-9934-8e33-8ee6-c0fd5c699426",
+    "name": "Selenium",
+    "description": "Egy nyílt forráskódú eszköz, amelyet a webalkalmazások automatizált tesztelésére használnak."
+  },
+  {
+    "id": "3ef05116-2e08-118a-c59b-55f7469e785b",
+    "name": "Sketch",
+    "description": "Egy digitális dizájn eszköz, amelyet elsősorban UI/UX tervezésre használnak."
+  },
+  {
+    "id": "67d0d461-af40-9b37-dcb1-8da52d4d2351",
+    "name": "Spring",
+    "description": "Egy átfogó alkalmazáskeretrendszer a Java platform számára, amely támogatja a vállalati szintű fejlesztéseket."
+  },
+  {
+    "id": "29fa16e1-89cc-043e-2af0-a602c0e43658",
+    "name": "Spring Boot",
+    "description": "A Spring keretrendszer kiterjesztése, amely lehetővé teszi a gyors és egyszerű alkalmazásfejlesztést minimális konfigurációval."
+  },
+  {
+    "id": "0981f3ea-88f8-01fd-75be-58f53659af46",
+    "name": "Stakeholder Management",
+    "description": "Az érdekeltek azonosításának, elemzésének és irányításának folyamata a projektek sikeres végrehajtása érdekében."
+  },
+  {
+    "id": "3a64c56c-cb9e-e7f8-c814-3d74caaa1d1e",
+    "name": "E2E Testing",
+    "description": "Az alkalmazások vagy rendszerek vizsgálata, hogy biztosítsák azok megfelelő működését és hibamentességét."
+  },
+  {
+    "id": "e5a6af57-a947-95c7-0ed1-2c5b79939c95",
+    "name": "TensorFlow",
+    "description": "Egy nyílt forráskódú gépi tanulási keretrendszer, amelyet a Google fejlesztett a mély tanulási modellek építésére és képzésére."
+  },
+  {
+    "id": "0c645691-c4da-e40f-e1de-683d2e2019f2",
+    "name": "TypeScript",
+    "description": "Egy JavaScript-alapú programozási nyelv, amely statikus típusellenőrzést és fejlettebb eszközöket biztosít."
+  },
+  {
+    "id": "7c0a532f-c597-1505-dd20-0fe04a93c51d",
+    "name": "User Research",
+    "description": "A felhasználók igényeinek és viselkedésének feltárása, hogy jobban megértsék, hogyan használják a termékeket és szolgáltatásokat."
+  },
+  {
+    "id": "bf29e41f-bd9a-9bbf-de21-e2e7343f547a",
+    "name": "User Testing",
+    "description": "A felhasználók bevonásával végzett tesztelési folyamat, amely a termékek használhatóságának és élményének javítását célozza."
+  },
+  {
+    "id": "a03fec67-99b9-f7fb-b008-5724997b87f3",
+    "name": "Visual Design",
+    "description": "A vizuális elemek, például színek, képek, betűtípusok és elrendezések tervezése és összehangolása a felhasználói élmény javítása érdekében."
+  },
+  {
+    "id": "465fa4bc-d94f-4f3e-b89a-e5e911186564",
+    "name": "Vue.js",
+    "description": "Egy nyílt forráskódú JavaScript keretrendszer a felhasználói felületek és egyoldalas alkalmazások fejlesztésére."
+  },
+  {
+    "id": "b608869e-49e9-933c-41b0-7da1c662a977",
+    "name": "Webpack",
+    "description": "Egy nyílt forráskódú modulcsomagoló eszköz a modern JavaScript alkalmazások számára."
+  },
+  {
+    "id": "dcf6fc1a-694c-cd79-0509-5ece5efadda6",
+    "name": "Wireframing",
+    "description": "A weboldalak vagy alkalmazások egyszerű, vizuális ábráinak készítése, amelyek bemutatják az elrendezést és a funkciókat."
+  },
+  {
+    "id": "a7e5108d-0d99-c01f-d2f6-f528e4bc4f12",
+    "name": "Apache Kafka",
+    "description": "Egy nyílt forráskódú adatfolyam-feldolgozó platform, amelyet nagy mennyiségű valós idejű adat feldolgozására és integrálására használnak."
+  },
+  {
+    "id": "759b4e4b-08c3-78bf-4f15-aaef111a88d3",
+    "name": "Ansible",
+    "description": "Egy nyílt forráskódú automatizációs eszköz, amelyet konfigurációkezelésre, alkalmazás-telepítésre és feladatautomatizálásra használnak."
+  },
+  {
+    "id": "68ba5bfa-01b5-ecb8-b1c9-2f678d401849",
+    "name": "Apache Spark",
+    "description": "Egy nyílt forráskódú elosztott feldolgozási rendszer, amelyet nagy mennyiségű adat gyors feldolgozására használnak."
+  },
+  {
+    "id": "84a42ed3-65bc-14c5-5de5-e8b64bd9505e",
+    "name": "Bash",
+    "description": "Egy parancsértelmező és szkriptnyelv Unix alapú operációs rendszerekhez, amely automatizálja a rendszerfeladatokat."
+  },
+  {
+    "id": "173803cd-0562-69bd-e458-515fd5db7c75",
+    "name": "Chef",
+    "description": "Egy konfigurációkezelő eszköz, amely automatizálja az infrastruktúra beállítását, telepítését és kezelését."
+  },
+  {
+    "id": "e115334f-0790-6e2f-f2a5-d297d1c5b79d",
+    "name": "CouchDB",
+    "description": "Egy nyílt forráskódú NoSQL adatbázis, amely JSON dokumentumokat tárol és HTTP protokollt használ."
+  },
+  {
+    "id": "f6af2f59-0552-63df-43ac-0b26acb17ceb",
+    "name": "Elasticsearch",
+    "description": "Egy nyílt forráskódú keresőmotor, amely nagy mennyiségű adat valós idejű keresésére és elemzésére szolgál."
+  },
+  {
+    "id": "33410d1a-8bad-512e-d45b-a103e02bb5af",
+    "name": "Grafana",
+    "description": "Egy nyílt forráskódú analitikai és monitorozó platform, amely különböző adatforrásokból származó adatok vizualizálására használható."
+  },
+  {
+    "id": "efbc4293-c5b6-d9d0-2325-7cac5477a2f9",
+    "name": "Kibana",
+    "description": "Egy nyílt forráskódú adatvizualizációs eszköz, amely az Elasticsearch adatait jeleníti meg grafikonok, diagramok és táblázatok formájában."
+  },
+  {
+    "id": "37b111e1-d781-8a3d-a639-701dd0a37b9b",
+    "name": "Logstash",
+    "description": "Egy nyílt forráskódú adatfeldolgozó eszköz, amely különböző forrásokból származó adatokat gyűjt, feldolgoz és továbbít."
+  },
+  {
+    "id": "61731df9-76fb-425c-f4dd-c01951b65846",
+    "name": "Nginx",
+    "description": "Egy nyílt forráskódú webszerver és fordított proxy szerver, amely nagy teljesítményű webszolgáltatásokat és terheléselosztást biztosít."
+  },
+  {
+    "id": "2a3323bb-78e0-17aa-aee5-e6d2b1fa0d71",
+    "name": "Prometheus",
+    "description": "Egy nyílt forráskódú monitorozási és figyelmeztetési rendszer, amely főként konténerizált alkalmazások megfigyelésére szolgál."
+  },
+  {
+    "id": "1481d4cf-1547-fd81-9b8a-d5fece41f9b6",
+    "name": "Puppet",
+    "description": "Egy nyílt forráskódú konfigurációkezelő eszköz, amely automatizálja az infrastruktúra beállítását és kezelését."
+  },
+  {
+    "id": "1a0ff944-b527-2b4e-afe9-90e17f561c22",
+    "name": "RabbitMQ",
+    "description": "Egy nyílt forráskódú üzenetközvetítő szoftver, amelyet elosztott rendszerek közötti kommunikációra használnak."
+  },
+  {
+    "id": "1d7acec5-f648-a917-d055-90b8ba7288ce",
+    "name": "Redis",
+    "description": "Egy nyílt forráskódú, memóriában tárolt adatbázis, amely kulcs-érték típusú adattárolást és nagy sebességű adatlekérést tesz lehetővé."
+  },
+  {
+    "id": "c365ef65-bda7-f62b-5b98-215b0bc600a0",
+    "name": "Terraform",
+    "description": "Egy nyílt forráskódú infrastruktúra-kezelő eszköz, amely lehetővé teszi az infrastruktúra kód általi deklaratív leírását és automatizálását."
+  },
+  {
+    "id": "62c2f3d4-15f7-2cbd-d602-e78b9e8a0009",
+    "name": "Vagrant",
+    "description": "Egy nyílt forráskódú eszköz, amely fejlesztési környezetek létrehozására és kezelésére szolgál, különösen virtuális gépek segítségével."
+  },
+  {
+    "id": "ab7cc8a9-eb7d-e428-c2f7-c5d3484f427d",
+    "name": "WebAssembly",
+    "description": "Egy bináris utasításkészlet, amely lehetővé teszi a webes alkalmazások nagy teljesítményű futtatását natív sebességgel."
+  },
+  {
+    "id": "9614bcd2-b1f4-426b-d189-faff063f6c38",
+    "name": "Zabbix",
+    "description": "Egy nyílt forráskódú monitorozó eszköz, amely lehetővé teszi a hálózatok és szerverek teljesítményének figyelését és elemzését."
+  },
+  {
+    "id": "7f5698d2-b7b8-044a-b428-55adc742138a",
+    "name": "Zephyr",
+    "description": "Egy agilis tesztmenedzsment eszköz, amely integrálódik a JIRA-val és támogatja a folyamatos tesztelést és fejlesztést."
+  }
+]

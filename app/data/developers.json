@@ -1,0 +1,242 @@
+[
+  {
+    "id": "b8878c6c-eda2-35ee-f621-91f9b7af14dc",
+    "name": "Dr. Kiss Lajos",
+    "email": "KissLajos@greenwave.hu",
+    "job": "UI/UX Designer",
+    "age": 40,
+    "salary": 350000,
+    "image": "https://api.siposm.hu/assets/developer-01.webp",
+    "skills": [
+      "User Research",
+      "Wireframing",
+      "Prototyping",
+      "Figma",
+      "Sketch",
+      "Interaction Design",
+      "Visual Design"
+    ]
+  },
+  {
+    "id": "a49335ca-d76a-02d1-2a6c-fdab1a3f8c0a",
+    "name": "Linda Hamilton",
+    "email": "l.hamilton@terminator.com",
+    "job": "Frontend Developer",
+    "age": 23,
+    "salary": 2500000,
+    "image": "https://api.siposm.hu/assets/developer-02.webp",
+    "skills": [
+      "JavaScript",
+      "React",
+      "CSS",
+      "HTML",
+      "Redux"
+    ]
+  },
+  {
+    "id": "d255b2e3-9fde-c833-1cda-fa9ee62e851c",
+    "name": "John Doe",
+    "email": "JohnDoe@greenwave.hu",
+    "job": "Frontend Developer",
+    "age": 35,
+    "salary": 1556000,
+    "image": "https://api.siposm.hu/assets/developer-03.webp",
+    "skills": [
+      "HTML",
+      "Vue.js",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": "20ef4e13-94db-8a96-ca02-4f65a2a545d2",
+    "name": "Sarah Parker",
+    "email": "SarahParker@greenwave.hu",
+    "job": "Fullstack Developer",
+    "age": 40,
+    "salary": 999000,
+    "image": "https://api.siposm.hu/assets/developer-04.webp",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "React",
+      "RESTful APIs"
+    ]
+  },
+  {
+    "id": "e31bc524-918f-a7dc-6b36-0be9c7181a11",
+    "name": "James Alexander Mitchell",
+    "email": "jam@alphatech.com",
+    "job": "Backend Developer",
+    "age": 30,
+    "salary": 406000,
+    "image": "https://api.siposm.hu/assets/developer-05.webp",
+    "skills": [
+      "Python",
+      "Django",
+      "Flask",
+      "RESTful APIs"
+    ]
+  },
+  {
+    "id": "fbdc476a-eedf-de7e-bac6-2563dd40b0ab",
+    "name": "Rose Parker",
+    "email": "RoseParker@alphatech.com",
+    "job": "Frontend Developer",
+    "age": 40,
+    "salary": 250000,
+    "image": "https://api.siposm.hu/assets/developer-06.webp",
+    "skills": [
+      "JavaScript",
+      "Angular",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "id": "575bc89b-907f-3410-0fd2-cc119004b7ed",
+    "name": "Dr. Thomas Rivers",
+    "email": "ThomasRivers@alphatech.com",
+    "job": "Backend Developer",
+    "age": 60,
+    "salary": 345000,
+    "image": "https://api.siposm.hu/assets/developer-07.webp",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL"
+    ]
+  },
+  {
+    "id": "b83254e1-8893-666a-1185-17cfab8d9a5c",
+    "name": "Sophia Anderson",
+    "email": "SophiaAnderson@alphatech.com",
+    "job": "Architect",
+    "age": 34,
+    "salary": 1500000,
+    "image": "https://api.siposm.hu/assets/developer-08.webp",
+    "skills": [
+      "Angular",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "c9878a6c-7ba3-45ee-f619-91f9a7ef23dc",
+    "name": "Ethan Harrison",
+    "email": "EthanHarrison@starsolutions.net",
+    "job": "Data Scientist",
+    "age": 28,
+    "salary": 520000,
+    "image": "https://api.siposm.hu/assets/developer-09.webp",
+    "skills": [
+      "Python"
+    ]
+  },
+  {
+    "id": "d49337ca-d78a-12e1-3a5d-fdab2b3f9d2a",
+    "name": "Amelia Richardson",
+    "email": "AmeliaRichardson@starsolutions.net",
+    "job": "DevOps Engineer",
+    "age": 42,
+    "salary": 620000,
+    "image": "https://api.siposm.hu/assets/developer-10.webp",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ]
+  },
+  {
+    "id": "e255a2b3-9fde-d833-1dfa-fa9fe62e85fc",
+    "name": "William Parker",
+    "email": "WilliamParker@starsolutions.net",
+    "job": "Project Manager",
+    "age": 37,
+    "salary": 460000,
+    "image": "https://api.siposm.hu/assets/developer-11.webp",
+    "skills": [
+      "Agile Methodologies",
+      "Scrum",
+      "JIRA"
+    ]
+  },
+  {
+    "id": "f0ef5e14-93db-7c96-da32-4e65b2a655d2",
+    "name": "Charlotte Wilson",
+    "email": "CharlotteWilson@starsolutions.net",
+    "job": "Machine Learning Engineer",
+    "age": 31,
+    "salary": 730000,
+    "image": "https://api.siposm.hu/assets/developer-12.webp",
+    "skills": [
+      "Python"
+    ]
+  },
+  {
+    "id": "g41bc623-818f-b8dc-5b26-0af8c5184a12",
+    "name": "Oliver Bennett",
+    "email": "OliverBennett@starsolutions.net",
+    "job": "Security Analyst",
+    "age": 29,
+    "salary": 395000,
+    "image": "https://api.siposm.hu/assets/developer-13.webp",
+    "skills": [
+      "Network Security"
+    ]
+  },
+  {
+    "id": "h3dc376b-f8df-ce7e-ba76-2574dd30b0ab",
+    "name": "Emily White",
+    "email": "EmilyWhite@starsolutions.net",
+    "job": "Software Tester",
+    "age": 34,
+    "salary": 410000,
+    "image": "https://api.siposm.hu/assets/developer-14.webp",
+    "skills": [
+      "Automated Testing",
+      "Selenium",
+      "Manual Testing"
+    ]
+  },
+  {
+    "id": "i28bc12d-5c93-1b56-3d91-754fe2d8a2b1",
+    "name": "Márton István",
+    "email": "MartonIstvan@techsphere.net",
+    "job": "Cloud Solutions Architect",
+    "age": 45,
+    "salary": 750000,
+    "image": "https://api.siposm.hu/assets/developer-15.webp",
+    "skills": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ]
+  },
+  {
+    "id": "j7f32f1b-4d7a-8b94-8e41-dc93e76b4c71",
+    "name": "Emily Carter",
+    "email": "EmilyCarter@techsphere.net",
+    "job": "Data Scientist",
+    "age": 39,
+    "salary": 680000,
+    "image": "https://api.siposm.hu/assets/developer-16.webp",
+    "skills": [
+      "SQL",
+      "Database Optimization"
+    ]
+  },
+  {
+    "id": "k8fc3d2a-6e39-4d9f-9b11-579fbb64b701",
+    "name": "Bartos Gábor",
+    "email": "BartosGabor@techsphere.net",
+    "job": "Security Analyst",
+    "age": 33,
+    "salary": 400000,
+    "image": "https://api.siposm.hu/assets/developer-17.webp",
+    "skills": [
+      "Business Analysis",
+      "Data Analysis"
+    ]
+  }
+]
